@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DRVnLQ6XO70qNABJD4KfX885+Kr9Xx4PifjHvNpPikayzT/qBSGIrsOEZ51hBj2n6OmfXhI/wtqMmj5ylXbdGw==",
+  "dgSpecHash": "pea0ctv69Wxe9FI3YKNssodXtrZgeqdWZ4QDj3iv1WBcziL4y8UdFdwunoDyX+AC44LoU6MofZ+lWJF+Gq2nrQ==",
   "success": true,
-  "projectFilePath": "/Users/macbook/RiderProjects/CodeData/CodeData/CodeData.csproj",
+  "projectFilePath": "/Users/macbook/Documents/GitHub/codedetails/CodeData/CodeData.csproj",
   "expectedPackageFiles": [
     "/Users/macbook/.nuget/packages/bouncycastle.cryptography/2.2.1/bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "/Users/macbook/.nuget/packages/entityframework/6.5.0-preview2-24180-01/entityframework.6.5.0-preview2-24180-01.nupkg.sha512",

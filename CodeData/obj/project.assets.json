@@ -4894,11 +4894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/RiderProjects/CodeData/CodeData/CodeData.csproj",
+      "projectUniqueName": "/Users/macbook/Documents/GitHub/codedetails/CodeData/CodeData.csproj",
       "projectName": "CodeData",
-      "projectPath": "/Users/macbook/RiderProjects/CodeData/CodeData/CodeData.csproj",
+      "projectPath": "/Users/macbook/Documents/GitHub/codedetails/CodeData/CodeData.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/RiderProjects/CodeData/CodeData/obj/",
+      "outputPath": "/Users/macbook/Documents/GitHub/codedetails/CodeData/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.nuget/NuGet/NuGet.Config"
