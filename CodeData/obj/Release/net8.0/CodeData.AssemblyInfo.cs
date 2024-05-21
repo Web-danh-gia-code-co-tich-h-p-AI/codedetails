@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2af070482c73ebef4591e204a5e93962030f8065")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
